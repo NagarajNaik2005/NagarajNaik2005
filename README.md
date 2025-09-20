@@ -3,6 +3,8 @@
 # 💫 About Me:
 I'm persuing Bachelor of Engineering in Computer Science and Engineering,<br>I'm looking for an Internship,<br>I'm learning Java full stack Development,<br>Feel free to connect via LinkedIn or explore my portfolio.
 
+## 💼 Portfolio:  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nagarajnaik.qzz.io)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nagaraj_naik_06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nagaraj-naik-2995852ba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrnagarajnaik2005@gmail.com) 
